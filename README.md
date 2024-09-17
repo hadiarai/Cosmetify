@@ -1,4 +1,5 @@
 # Cosmetify Website 🌸
+![logo](https://github.com/user-attachments/assets/96f852b1-3474-47ce-8b23-4c1e5492c4fe)
 
 ![Cosmetify Logo](path/to/logo.png)
 
