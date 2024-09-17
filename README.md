@@ -1,8 +1,6 @@
 # Cosmetify Website 🌸
 ![logo](https://github.com/user-attachments/assets/96f852b1-3474-47ce-8b23-4c1e5492c4fe)
 
-![Cosmetify Logo](path/to/logo.png)
-
 A modern, responsive website for Cosmetify, a company specializing in **cosmetics** and **personal care** products. This website features key sections such as product ranges, a blog, and detailed contact information. The site is designed to provide users with all the necessary information about the company's services, products, and expertise.
 
 ## 📝 Description
@@ -57,6 +55,7 @@ Simply double-click the index.html file or use a local server like Live Server (
 
 ![Our Products Page Screenshot](![OurProducts](https://github.com/user-attachments/assets/ff9d0e5e-6aca-49b6-b28b-269ed484ef31)
 )
+![OurProducts](https://github.com/user-attachments/assets/1e4ec3bb-7c43-4149-a190-423ce8f15bd7)
 
 ### 3. **Blog Page:**
 
