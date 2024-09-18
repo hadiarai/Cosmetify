@@ -81,6 +81,6 @@ Simply double-click the index.html file or use a local server like Live Server (
 
 If you have any questions, feel free to reach out:
 
-- **Email**: 
-- **Phone**: 
+- **Email**: hadiarai71@gmail.com
+- **Phone**: 03238896019
 
